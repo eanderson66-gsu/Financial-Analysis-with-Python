@@ -18,8 +18,6 @@ The analysis handles data from **20+ countries**, cleaning raw API responses, re
 ### 3. Statistical Distribution
 <img width="841" height="547" alt="Dsitribution of EBITDA Margin across companies graph" src="https://github.com/user-attachments/assets/bd236ba6-09ce-4cb3-ae61-352f660211d5" />
 *Description: A histogram revealing the frequency of profit margins. The data follows a normal distribution centered around 15-20%, with outliers removed during the data cleaning phase.*
-> 
----
 
 ## Technologies Used:
 * **Language:** Python 3.x
